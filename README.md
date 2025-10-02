@@ -1,2 +1,2 @@
 Image base url: 
-https://b-infinite.github.io/my7e-app-image-hosting/
+https://raw.githubusercontent.com/B-Infinite/my7e-app-image-hosting/main/
